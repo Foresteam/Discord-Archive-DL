@@ -1,5 +1,5 @@
 # Discord-Archive-DL
-A script to download all the files from a message, via wget
+A script to download all files from a message, via wget
 ## Usage
 1. Open a chat
 2. Open console
